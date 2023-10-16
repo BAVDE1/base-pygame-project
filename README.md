@@ -1,2 +1,2 @@
-# base-pygame-project
-A solid base to help kickstart pygame projects
+# Base pygame project
+A semi-solid base I use to help kickstart pygame projects
